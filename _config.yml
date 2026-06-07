@@ -23,7 +23,7 @@ repository               : "zakirullah98/zakirullah98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Zakir_Ullah.jpg"
+  avatar           : "profile.png"
   name             : "Zakir Ullah"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Robotics and Autonomous Navigation"
